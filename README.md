@@ -1,7 +1,7 @@
 # AI-enhancer
 ## A deep learning algorithm to predict enhancer regions from DNA sequence <h2> 
 ### Workflow <h3> 
-![GitHub Logo](/images/model_plot.png)
+![GitHub Logo](/images/model_plot.pdf)
 
 # Prerequisites
   Users need to install python (https://www.python.org/downloads/) and some python packages:
